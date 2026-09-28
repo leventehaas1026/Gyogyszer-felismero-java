@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KMD5A9_SzakmaiGyakorlat</string>
+    <string name="default_web_client_id">543956156112-pi5oq3kd2h2vvb0i0f95v1904ghpmuur.apps.googleusercontent.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Camera">Kamera</string>
+    <string name="Gallery">Galéria</string>
+    <string name="Tip">Fotózd le a gyógyszert vagy válassz képet a galériából az elemzéshez!</string>
+    <string name="Result">Ide kerül majd az elemzés eredménye...</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543956156112",
+    "project_id": "gyogyszer-szkenner",
+    "storage_bucket": "gyogyszer-szkenner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543956156112:android:7c5dd36ee8904cdcd3a8d5",
+        "android_client_info": {
+          "package_name": "com.example.kmd5a9_szakmaigyakorlat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543956156112-31fkg8sjl9g8d6fhs0mftsjan8dspki6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kmd5a9_szakmaigyakorlat",
+            "certificate_hash": "bdd0bca6f731e2cd8d32e3178dcb7059b7eb6360"
+          }
+        },
+        {
+          "client_id": "543956156112-ljc6ucasp4dcl1a04eu2p06k2hjmc8d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kmd5a9_szakmaigyakorlat",
+            "certificate_hash": "6ef1b16cf8205c34d2ff6132fadf1183e3d99a12"
+          }
+        },
+        {
+          "client_id": "543956156112-pi5oq3kd2h2vvb0i0f95v1904ghpmuur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrl0BTFJJTh7ZX_pEx4KOuyv902BRhs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543956156112-pi5oq3kd2h2vvb0i0f95v1904ghpmuur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

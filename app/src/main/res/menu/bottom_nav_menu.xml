@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Kezdőlap" />
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/receipt_icon"
+        android:title="Recept" />
+
+    <item
+        android:id="@+id/nav_recept"
+        android:icon="@drawable/pill_icon"
+        android:title="Gyógyszer" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_gallery"
+        android:title="Előzmények" />
+</menu>
